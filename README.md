@@ -1,6 +1,6 @@
 ## Janji
 
-Saya Lyan Nazhabil Dzuquwwa dengan NIM 2308428 mengerjakan Latihan Modul 1 dan Tugas Praktikum 1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Lyan Nazhabil Dzuquwwa dengan NIM 2308428 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Diagram
 ![diagram](tp2dpbo.drawio.png)
