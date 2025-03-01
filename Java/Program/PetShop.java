@@ -26,15 +26,15 @@ public class PetShop {
         this.id = id;
     }
 
-    public void setnama_produk(String nama_produk) {
+    public void setNama_produk(String nama_produk) {
         this.nama_produk = nama_produk;
     }
 
-    public void setstok_produk(String stok_produk) {
+    public void setStok_produk(String stok_produk) {
         this.stok_produk = stok_produk;
     }
 
-    public void setharga_produk(int harga_produk) {
+    public void setHarga_produk(int harga_produk) {
         this.harga_produk = harga_produk;
     }
 
@@ -44,15 +44,15 @@ public class PetShop {
         return this.id;
     }
 
-    public String getnama_produk() {
+    public String getNama_produk() {
         return this.nama_produk;
     }
 
-    public String getstok_produk() {
+    public String getStok_produk() {
         return this.stok_produk;
     }
 
-    public int getharga_produk() {
+    public int getHarga_produk() {
         return this.harga_produk;
     }
 
