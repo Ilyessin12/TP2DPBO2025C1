@@ -196,6 +196,6 @@ def main():
     
     # Update display with new products
     tampilkan(string_length, products)
-
+1
 if __name__ == "__main__":
     main()
